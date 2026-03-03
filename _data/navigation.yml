@@ -1,12 +1,8 @@
 header:
-  - title: Start
-    url: /
   - title: Über mich
     url: /ueber-mich
   - title: Erfahrung
     url: /erfahrung
-  - title: Tiere & Aufgaben
-    url: /tiere-und-aufgaben
   - title: Pädagogik
     url: /paedagogik
   - title: Galerie
