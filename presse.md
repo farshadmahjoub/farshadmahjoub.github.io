@@ -28,23 +28,6 @@ Ich bin in mehreren Szenen bei der praktischen Tierpflege und im Arbeitsalltag z
     </div>
   </div>
 
-  <!-- Vimeo 2 -->
-  <div style="background:#fff;border-radius:16px;overflow:hidden;box-shadow:0 6px 18px rgba(0,0,0,.12);">
-    <div style="position:relative;padding-top:56.25%;">
-      <iframe
-        src="https://player.vimeo.com/video/VIMEO_ID_2?title=0&byline=0&portrait=0"
-        style="position:absolute;top:0;left:0;width:100%;height:100%;"
-        frameborder="0"
-        allow="autoplay; fullscreen; picture-in-picture"
-        allowfullscreen>
-      </iframe>
-    </div>
-    <div style="padding:16px;">
-      <div style="font-weight:700;font-size:1.05rem;margin-bottom:6px;">Filmbeitrag – Tierheim</div>
-      <div style="opacity:.85;font-size:.95rem;">Weitere Eindrücke aus dem Arbeitsalltag im Tierheim.</div>
-    </div>
-  </div>
-
 </div>
 
 ---
