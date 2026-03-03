@@ -16,7 +16,8 @@ Ich arbeite ruhig, sorgfältig und zuverlässig – mit dem Ziel, dass es den Ti
 
   <div style="flex:1;min-width:280px;">
 
-## Meine Haltung
+
+### Meine Haltung
 
 - Tiere verdienen Respekt und Geduld  
 - Gesundheit beginnt mit Sauberkeit und Struktur  
