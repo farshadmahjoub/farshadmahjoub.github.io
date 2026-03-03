@@ -1,0 +1,40 @@
+title: "Portfolio – [Name]"
+description: "Tierpflege & pädagogischer Bauernhof"
+lang: de
+timezone: Europe/Berlin
+
+text_skin: forest
+highlight_theme: default
+
+# TeXt Theme (remote)
+remote_theme: kitian616/jekyll-TeXt-theme
+
+plugins:
+  - jekyll-remote-theme
+
+# URL settings (optional; GitHub Pages setzt das automatisch)
+# url: "https://USERNAME.github.io"
+# baseurl: ""
+
+# Navigation
+navigation:
+  - title: Start
+    url: /
+  - title: Über mich
+    url: /ueber-mich
+  - title: Erfahrung
+    url: /erfahrung
+  - title: Tiere & Aufgaben
+    url: /tiere-und-aufgaben
+  - title: Pädagogik
+    url: /paedagogik
+  - title: Galerie
+    url: /galerie
+  - title: Videos
+    url: /videos
+  - title: Kontakt
+    url: /kontakt
+
+# Optional: Social / footer
+author:
+  name: "[Name]"

@@ -1,0 +1,28 @@
+---
+layout: page
+title: Galerie
+permalink: /galerie
+---
+
+## Galerie (Auswahl)
+
+> Lege eure Bilder in `assets/img/` ab und ersetze die Platzhalter.
+
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:12px;">
+  <figure style="margin:0;">
+    <img src="/assets/img/gallery_1.jpg" alt="Galerie 1" style="width:100%;border-radius:14px;box-shadow:0 6px 16px rgba(0,0,0,.10);" />
+    <figcaption style="font-size:.9em;opacity:.85;margin-top:6px;">[Kurzbeschreibung – z. B. Fütterung]</figcaption>
+  </figure>
+  <figure style="margin:0;">
+    <img src="/assets/img/gallery_2.jpg" alt="Galerie 2" style="width:100%;border-radius:14px;box-shadow:0 6px 16px rgba(0,0,0,.10);" />
+    <figcaption style="font-size:.9em;opacity:.85;margin-top:6px;">[Kurzbeschreibung – z. B. Reinigung]</figcaption>
+  </figure>
+  <figure style="margin:0;">
+    <img src="/assets/img/gallery_3.jpg" alt="Galerie 3" style="width:100%;border-radius:14px;box-shadow:0 6px 16px rgba(0,0,0,.10);" />
+    <figcaption style="font-size:.9em;opacity:.85;margin-top:6px;">[Kurzbeschreibung – z. B. Umgang mit Tier]</figcaption>
+  </figure>
+  <figure style="margin:0;">
+    <img src="/assets/img/gallery_4.jpg" alt="Galerie 4" style="width:100%;border-radius:14px;box-shadow:0 6px 16px rgba(0,0,0,.10);" />
+    <figcaption style="font-size:.9em;opacity:.85;margin-top:6px;">[Kurzbeschreibung]</figcaption>
+  </figure>
+</div>
