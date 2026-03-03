@@ -4,7 +4,15 @@ title: Start
 permalink: /
 ---
 
-# Willkommen
+# Hallo, ich bin Farshâd.
+
+  </div>
+
+  <div style="flex:1;min-width:280px;">
+    <img src="{{ '/assets/img/hero.jpg' | relative_url }}"
+         alt="Arbeit im Tierheim"
+         style="width:100%;border-radius:18px;box-shadow:0 10px 28px rgba(0,0,0,.15);" />
+  </div>
 
 Tiere brauchen Verlässlichkeit, Ruhe und jemanden, der hinsieht.  
 Für mich steht im Mittelpunkt, dass Tiere **gesund sind, sich sicher fühlen und das bekommen, was sie benötigen** – jeden Tag.
@@ -29,12 +37,6 @@ Ich arbeite ruhig, sorgfältig und zuverlässig – mit dem Ziel, dass es den Ti
   Dass Tiere glücklich und gesund sind – und dass ich ihnen das geben kann, was sie brauchen.
 </div>
 
-  </div>
 
-  <div style="flex:1;min-width:280px;">
-    <img src="{{ '/assets/img/hero.jpg' | relative_url }}"
-         alt="Arbeit im Tierheim"
-         style="width:100%;border-radius:18px;box-shadow:0 10px 28px rgba(0,0,0,.15);" />
-  </div>
 
 </div>
