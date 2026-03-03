@@ -22,7 +22,7 @@ Einfach auf das Bild klicken, um das Video zu öffnen.
     <div style="opacity:.8;font-size:.95em;">Einblick in den Alltag und meine Mitarbeit.</div>
   </a>
 
-  <!-- YouTube-Clip 2 -->
+  <!-- Tag der offenen Tür -->
   <a href="https://www.youtube.com/watch?v=t6f6IYUq1No"
      target="_blank" rel="noopener"
      style="text-decoration:none;color:inherit;">
