@@ -10,7 +10,7 @@ permalink: /videos
 Optional könnt ihr QR-Codes als Bilder hinzufügen (z. B. in `assets/video_qr/`).
 
 ### Clip 1: Fütterung
-- Link: [https://…](https://example.com)
+- Link: [https://…](https://www.youtube.com/watch?v=9oi7JMJRXTM)
 - QR-Code (optional):  
   ![QR Clip 1](/assets/video_qr/clip1.png)
 
