@@ -3,6 +3,25 @@ layout: page
 title: Presse & Dokumentation
 permalink: /presse
 ---
+## Artikel: Besuch in einem iranischen Tierheim
+<div style="display:flex;gap:18px;align-items:flex-start;">
+
+  <a href="https://magazin.zenith.me/de/gesellschaft/zu-besuch-einem-iranischen-tierheim"
+     target="_blank" rel="noopener" style="text-decoration:none;color:inherit;">
+
+    <img src="{{ '/assets/img/artikel_zenith.jpg' | relative_url }}"
+         alt="Zenith Artikel"
+         style="width:220px;border-radius:12px;box-shadow:0 4px 12px rgba(0,0,0,.1);" />
+
+    <div style="flex:1;font-size:1rem;line-height:1.4;">
+      <strong>Zu Besuch in einem iranischen Tierheim</strong><br />
+      Artikel bei *zenith – Magazin für den Orient*<br />
+      <em>Einblick in das Tierheim und den Alltag vor Ort.</em>
+    </div>
+
+  </a>
+
+</div>
 
 ## Artikel: Besuch in einem iranischen Tierheim
 
