@@ -24,9 +24,6 @@ permalink: /
 
   <div style="flex:1;min-width:260px;">
     <img src="/assets/img/hero.jpg" alt="Titelbild" style="width:100%;border-radius:16px;box-shadow:0 6px 18px rgba(0,0,0,.12);" />
-    <p style="font-size:0.9em;opacity:0.8;margin-top:8px;">
-      Tipp: Ersetze <code>assets/img/hero.jpg</code> durch ein gutes Foto (ruhiger Umgang mit Tier / Stall).
-    </p>
   </div>
 </div>
 
