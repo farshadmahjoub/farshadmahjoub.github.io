@@ -3,7 +3,7 @@ layout: page
 title: Presse & Dokumentation
 permalink: /presse
 ---
-## Artikel: Besuch in einem iranischen Tierheim
+## Artikel: Azadeh und die Tiere
 <div style="display:flex;gap:18px;align-items:flex-start;">
 
   <a href="https://magazin.zenith.me/de/gesellschaft/zu-besuch-einem-iranischen-tierheim"
@@ -16,22 +16,12 @@ permalink: /presse
     <div style="flex:1;font-size:1rem;line-height:1.4;">
       <strong>Zu Besuch in einem iranischen Tierheim</strong><br />
       Artikel bei *zenith – Magazin für den Orient*<br />
-      <em>Einblick in das Tierheim und den Alltag vor Ort.</em>
+      <em>Ein journalistischer Beitrag, der Einblicke in das Tierheim gibt, in dem ich gearbeitet habe.  </em>
     </div>
 
   </a>
 
 </div>
-
-## Artikel: Besuch in einem iranischen Tierheim
-
-📄 **Titel:** Zu Besuch in einem iranischen Tierheim  
-🗞️ **Quelle:** *zenith – Magazin für den Orient*  
-🌐 **Link zum Artikel:**  
-➡️ [https://magazin.zenith.me/de/gesellschaft/zu-besuch-einem-iranischen-tierheim](https://magazin.zenith.me/de/gesellschaft/zu-besuch-einem-iranischen-tierheim)
-
-Ein journalistischer Beitrag, der Einblicke in das Tierheim gibt, in dem ich gearbeitet habe.  
-Der Artikel beleuchtet die Herausforderungen und Alltagssituationen im Tierheim-Alltag und vermittelt sowohl emotionale als auch sachliche Perspektiven aus der Region.
 
 ---
 ## Dokumentation & Medienberichte
