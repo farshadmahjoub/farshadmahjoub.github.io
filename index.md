@@ -27,12 +27,5 @@ permalink: /
   </div>
 </div>
 
----
-
-## Schnellnavigation
-- [Über mich](/ueber-mich)
-- [Erfahrung](/erfahrung)
-- [Tiere & Aufgaben](/tiere-und-aufgaben)
-- [Galerie](/galerie)
 - [Videos](/videos)
 - [Kontakt](/kontakt)
