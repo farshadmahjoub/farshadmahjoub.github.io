@@ -88,6 +88,18 @@ Der Film *The Shelter* (2016) – Regie: Abbas Sendi – wurde international auf
     </figcaption>
   </figure>
 
+### Artikel: Besuch in einem iranischen Tierheim
+
+📄 **Titel:** Zu Besuch in einem iranischen Tierheim  
+🗞️ **Quelle:** *zenith – Magazin für den Orient*  
+🌐 **Link zum Artikel:**  
+➡️ [https://magazin.zenith.me/de/gesellschaft/zu-besuch-einem-iranischen-tierheim](https://magazin.zenith.me/de/gesellschaft/zu-besuch-einem-iranischen-tierheim)
+
+Ein journalistischer Beitrag, der Einblicke in das Tierheim gibt, in dem ich gearbeitet habe.  
+Der Artikel beleuchtet die Herausforderungen und Alltagssituationen im Tierheim-Alltag und vermittelt sowohl emotionale als auch sachliche Perspektiven aus der Region.
+
+---
+
 </div>
 
 ---
