@@ -24,7 +24,7 @@ permalink: /presse
 </div>
 
 ---
-# Dokumentarfilm Panahgâh - The Shelter (2016)
+# Dokumentarfilm Panâhgâh - The Shelter (2016)
 
 Der Dokumentarfilm *The Shelter* (2016) begleitet die Arbeit im Tierheim und zeigt authentische Einblicke in den Alltag vor Ort.  
 Ich bin in mehreren Szenen bei der praktischen Tierpflege und im Arbeitsalltag zu sehen.
