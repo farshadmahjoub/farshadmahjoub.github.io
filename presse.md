@@ -9,9 +9,9 @@ permalink: /presse
   <a href="https://magazin.zenith.me/de/gesellschaft/zu-besuch-einem-iranischen-tierheim"
      target="_blank" rel="noopener" style="text-decoration:none;color:inherit;">
 
-    <img src="{{ '/assets/img/artikel_zenith.jpg' | relative_url }}"
-         alt="Zenith Artikel"
-         style="width:440px;border-radius:12px;box-shadow:0 4px 12px rgba(0,0,0,.1);" />
+<img src="{{ '/assets/img/artikel_zenith.jpg' | relative_url }}"
+     alt="Zenith Artikel"
+     style="width:100%;height:auto;border-radius:16px;box-shadow:0 6px 18px rgba(0,0,0,.12);" />
 
     <div style="flex:1;font-size:1rem;line-height:1.4;">
       <strong>Zu Besuch in einem iranischen Tierheim</strong><br />
