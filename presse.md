@@ -3,7 +3,7 @@ layout: page
 title: Presse & Dokumentation
 permalink: /presse
 ---
-## Artikel: Azadeh und die Tiere
+## Artikel: Azadeh und die Tiere (2021)
 <div style="display:flex;gap:18px;align-items:flex-start;">
 
   <a href="https://magazin.zenith.me/de/gesellschaft/zu-besuch-einem-iranischen-tierheim"
@@ -11,7 +11,7 @@ permalink: /presse
 
     <img src="{{ '/assets/img/artikel_zenith.jpg' | relative_url }}"
          alt="Zenith Artikel"
-         style="width:220px;border-radius:12px;box-shadow:0 4px 12px rgba(0,0,0,.1);" />
+         style="width:440px;border-radius:12px;box-shadow:0 4px 12px rgba(0,0,0,.1);" />
 
     <div style="flex:1;font-size:1rem;line-height:1.4;">
       <strong>Zu Besuch in einem iranischen Tierheim</strong><br />
@@ -24,7 +24,7 @@ permalink: /presse
 </div>
 
 ---
-## Dokumentation & Medienberichte
+## Dokumentarfilm Panahgâh - The Shelter (2016)
 
 Der Dokumentarfilm *The Shelter* (2016) begleitet die Arbeit im Tierheim und zeigt authentische Einblicke in den Alltag vor Ort.  
 Ich bin in mehreren Szenen bei der praktischen Tierpflege und im Arbeitsalltag zu sehen.
@@ -50,9 +50,7 @@ Ich bin in mehreren Szenen bei der praktischen Tierpflege und im Arbeitsalltag z
 
 </div>
 
----
-
-## Festival-Teilnahmen (Official Selection)
+# Festival-Teilnahmen (Official Selection)
 
 Der Film *The Shelter* (2016) – Regie: Abbas Sendi – wurde international auf mehreren Filmfestivals gezeigt.
 
