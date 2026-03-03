@@ -9,55 +9,41 @@ permalink: /presse
 Der Dokumentarfilm *The Shelter* (2016) begleitet die Arbeit im Tierheim und zeigt authentische Einblicke in den Alltag vor Ort.  
 Ich bin in mehreren Szenen bei der praktischen Tierpflege und im Arbeitsalltag zu sehen.
 
-<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:22px;align-items:stretch;margin-top:20px;">
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(320px,1fr));gap:22px;align-items:stretch;margin-top:20px;">
 
-  <!-- Video 1 -->
-  <a href="https://www.youtube.com/watch?v=9oi7JMJRXTM"
-     target="_blank"
-     rel="noopener"
-     style="text-decoration:none;color:inherit;display:block;">
-
-    <div style="background:#fff;border-radius:16px;overflow:hidden;box-shadow:0 6px 18px rgba(0,0,0,.12);">
-      
-      <img src="https://img.youtube.com/vi/9oi7JMJRXTM/hqdefault.jpg"
-           alt="The Shelter – Dokumentation"
-           style="width:100%;display:block;" />
-
-      <div style="padding:16px;">
-        <div style="font-weight:700;font-size:1.05rem;margin-bottom:6px;">
-          The Shelter (2016)
-        </div>
-        <div style="opacity:.85;font-size:.95rem;">
-          Dokumentarfilm über das Tierheim – mit Einblick in meine praktische Mitarbeit.
-        </div>
-      </div>
-
+  <!-- Vimeo 1 -->
+  <div style="background:#fff;border-radius:16px;overflow:hidden;box-shadow:0 6px 18px rgba(0,0,0,.12);">
+    <div style="position:relative;padding-top:56.25%;">
+      <iframe
+        src="https://player.vimeo.com/video/VIMEO_ID_1?title=0&byline=0&portrait=0"
+        style="position:absolute;top:0;left:0;width:100%;height:100%;"
+        frameborder="0"
+        allow="autoplay; fullscreen; picture-in-picture"
+        allowfullscreen>
+      </iframe>
     </div>
-  </a>
-
-  <!-- Video 2 -->
-  <a href="https://www.youtube.com/watch?v=t6f6IYUq1No"
-     target="_blank"
-     rel="noopener"
-     style="text-decoration:none;color:inherit;display:block;">
-
-    <div style="background:#fff;border-radius:16px;overflow:hidden;box-shadow:0 6px 18px rgba(0,0,0,.12);">
-      
-      <img src="https://img.youtube.com/vi/t6f6IYUq1No/hqdefault.jpg"
-           alt="Tierheim Beitrag"
-           style="width:100%;display:block;" />
-
-      <div style="padding:16px;">
-        <div style="font-weight:700;font-size:1.05rem;margin-bottom:6px;">
-          Filmbeitrag – Tierheim
-        </div>
-        <div style="opacity:.85;font-size:.95rem;">
-          Weitere Eindrücke aus dem Arbeitsalltag im Tierheim.
-        </div>
-      </div>
-
+    <div style="padding:16px;">
+      <div style="font-weight:700;font-size:1.05rem;margin-bottom:6px;">The Shelter (2016)</div>
+      <div style="opacity:.85;font-size:.95rem;">Dokumentarfilm über das Tierheim – Einblick in meine praktische Mitarbeit.</div>
     </div>
-  </a>
+  </div>
+
+  <!-- Vimeo 2 -->
+  <div style="background:#fff;border-radius:16px;overflow:hidden;box-shadow:0 6px 18px rgba(0,0,0,.12);">
+    <div style="position:relative;padding-top:56.25%;">
+      <iframe
+        src="https://player.vimeo.com/video/VIMEO_ID_2?title=0&byline=0&portrait=0"
+        style="position:absolute;top:0;left:0;width:100%;height:100%;"
+        frameborder="0"
+        allow="autoplay; fullscreen; picture-in-picture"
+        allowfullscreen>
+      </iframe>
+    </div>
+    <div style="padding:16px;">
+      <div style="font-weight:700;font-size:1.05rem;margin-bottom:6px;">Filmbeitrag – Tierheim</div>
+      <div style="opacity:.85;font-size:.95rem;">Weitere Eindrücke aus dem Arbeitsalltag im Tierheim.</div>
+    </div>
+  </div>
 
 </div>
 
