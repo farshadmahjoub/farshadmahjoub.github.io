@@ -10,8 +10,10 @@ Berufserfahrung
 </span>
 </div>
 
-
-> Hinweis: Kein formaler Berufsabschluss – die folgenden Punkte basieren auf praktischer Tätigkeit und dokumentiertem Material (Fotos/Videos).
+<div style="margin-top:18px;padding:16px 18px;border-radius:16px;background:rgba(0,0,0,.04);font-size:1.05rem;line-height:1.5;">
+  <strong>Hinweis: Kein formaler Berufsabschluss</strong><br>
+ Die folgenden Punkte basieren auf praktischer Tätigkeit und dokumentiertem Material (Fotos/Videos).
+</div>
 
 ### Tierpfleger:
 
