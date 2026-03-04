@@ -17,6 +17,7 @@ permalink: /erfahrung
 <hr style="border:none;border-top:1px solid #ddd;">
 <span style="position:relative;top:-12px;background:white;padding:0 12px;color:#666;">Festivalteilnahmen</span>
 </div>
+
 ### Bildung:
 - **Ort / Einrichtung:** Universitöt Pisa/Italien
 - **Zeitraum:** 2015-2016
