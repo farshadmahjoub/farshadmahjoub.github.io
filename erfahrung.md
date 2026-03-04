@@ -31,7 +31,7 @@ Bildung
 
 | | |
 |---|---|
-|### Studium:|
+| **Studium:**|
 | **Ort / Einrichtung:** |Universität Pisa/Italien|
 | **Zeitraum:**| 2015-2016|
 | **Studiengang**| Informatica Umanistica|
