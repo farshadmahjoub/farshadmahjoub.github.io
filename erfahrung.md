@@ -20,7 +20,7 @@ Berufserfahrung
 | | |
 |---|---|
 |**Ort / Einrichtung:**|   Ânâhitâ Tierheim (شفاخانه حیوانات آناهیتا), Rasht/Irân|
-|**Zeitraum:**|            2014-2015 und 2016-2024 (insg. 9 Jahre)|
+|**Zeitraum:**|            2014-2015 (nebenberuflich neben Studium), unterbrochen d. Auslandsaufenthalt und 2016-2024 (hauptberuflich) [insg. 9 Jahre]|
 | **Tiere:** |              Hund, Katze, Igel, Eule, Wolf, Fuchs, Esel, Pferd, Dachs|
 |**Aufgaben:**|            Zubereitung von Tiernahrung, Fütterung, Reinigung, Stallroutine, Beobachtung, Transport, Medikation|
   
