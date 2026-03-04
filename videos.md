@@ -18,7 +18,7 @@ Einfach auf das Bild klicken, um das Video zu öffnen.
     <img src="https://img.youtube.com/vi/9oi7JMJRXTM/hqdefault.jpg"
          alt="Clip aus dem Tierheim"
          style="width:100%;border-radius:14px;box-shadow:0 6px 16px rgba(0,0,0,.12);" />
-    <div style="margin-top:8px;font-weight:600;">Freilassung eines Dachses - Ânâhitâ Krankenhaus (YouTube)</div>
+    <div style="margin-top:8px;font-weight:600;">Freilassung eines Dachses - Ânâhitâ Tierheim (YouTube)</div>
     <div style="opacity:.8;font-size:.95em;">Einblick in den Alltag und meine Mitarbeit.</div>
   </a>
 
@@ -29,7 +29,7 @@ Einfach auf das Bild klicken, um das Video zu öffnen.
     <img src="https://img.youtube.com/vi/t6f6IYUq1No/hqdefault.jpg"
          alt="Weitere Eindrücke aus dem Tierheim"
          style="width:100%;border-radius:14px;box-shadow:0 6px 16px rgba(0,0,0,.12);" />
-    <div style="margin-top:8px;font-weight:600;">Tag der offenen Tür - Ânâhitâ Krankenhaus (YouTube)</div>
+    <div style="margin-top:8px;font-weight:600;">Tag der offenen Tür - Ânâhitâ Tierheim (YouTube)</div>
     <div style="opacity:.8;font-size:.95em;">Weitere Szenen und Einblicke im Einsatz.</div>
   </a>
 
