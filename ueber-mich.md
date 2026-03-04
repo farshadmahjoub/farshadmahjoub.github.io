@@ -10,7 +10,7 @@ permalink: /ueber-mich
 |---|---|
 | **Name** | Farshad Mahjoub |
 | **Geburtsjahr** | 1994 |
-| **Wohnort** | Kiel, Deutschland |
+| **Wohnort** | Trappenkamp, Deutschland |
 | **Sprachen** | Persisch (Muttersprache), Deutsch (B1), Englisch (B2) |
 
 ---
