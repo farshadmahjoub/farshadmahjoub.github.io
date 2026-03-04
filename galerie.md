@@ -6,8 +6,6 @@ permalink: /galerie
 
 ## Galerie (Auswahl)
 
-> Lege eure Bilder in `assets/img/` ab und ersetze die Platzhalter.
-
 <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:12px;">
   <figure style="margin:0;">
     <img src="/assets/img/gallery_1.jpg" alt="Galerie 1" style="width:100%;border-radius:14px;box-shadow:0 6px 16px rgba(0,0,0,.10);" />
