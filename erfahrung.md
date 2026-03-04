@@ -41,21 +41,32 @@ Bildung
 <hr style="margin:40px 0;border:none;border-top:1px solid #ddd;">
 
 ### Studium:
-- **Ort / Einrichtung:** Universität Roudsar/Irân
-- **Zeitraum:** 2014-2015
-- **Studiengang** Dolmetscher Englisch
-- **Abschluss:** ohne
+
+| | |
+|---|---|
+| **Ort / Einrichtung:**| Universität Roudsar/Irân|
+| **Zeitraum:**| 2014-2015|
+| **Studiengang**| Dolmetscher Englisch|
+| **Abschluss:** | ohne|
+
 <hr style="margin:40px 0;border:none;border-top:1px solid #ddd;">
 
 ### Schule:
-- **Ort / Einrichtung:** Sekundarschule Shâhed, Rasht/Irân
-- **Zeitraum:** 2006-2013
-- **Abschluss:** Abitur
+
+| | |
+|---|---|
+| **Ort / Einrichtung:** |Sekundarschule Shâhed, Rasht/Irân|
+| **Zeitraum:** |2006-2013|
+| **Abschluss:** |Abitur|
+
 <hr style="margin:40px 0;border:none;border-top:1px solid #ddd;">
 
 ### Schule:
-- **Ort / Einrichtung:** Primarschule Shahrouze Asil, Siâhkal/Irân
-- **Zeitraum:** 2001-2006
+
+| | |
+|---|---|
+| **Ort / Einrichtung:** |Primarschule Shahrouze Asil, Siâhkal/Irân|
+| **Zeitraum:** |2001-2006|
 
 <div style="text-align:center;margin:60px 0;">
 <hr style="border:none;border-top:1px solid #ddd;">
@@ -64,6 +75,8 @@ Sonstiges
 </span>
 </div>
 
-- **Flucht nach Deutschland:** 2024
-- **Integrationskurs:** seit 07/2025 bis voraussichtlich 04/2026 mit Ziel B1-Diplom
+| | |
+|---|---|
+|**Flucht nach Deutschland:**| 2024|
+|**Integrationskurs:** |seit 07/2025 bis voraussichtlich 04/2026 mit Ziel B1-Diplom|
   
