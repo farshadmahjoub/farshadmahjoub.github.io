@@ -12,14 +12,35 @@ Tiere brauchen Sicherheit, Geduld und einen respektvollen Umgang.
 Im Tierheim, in dem ich gearbeitet habe, wurden viele Tiere aufgenommen, die zuvor misshandelt oder vernachlässigt worden waren.  
 Deshalb war ein wichtiger Teil der Arbeit, ihnen wieder **Vertrauen, Ruhe und Sicherheit** zu geben.
 
+<div style="margin:22px 0;padding:16px 18px;border-radius:16px;background:rgba(0,0,0,.04);">
+  <strong>Was mir dabei besonders wichtig ist:</strong><br>
+  Tieren zu zeigen, dass sie wieder sicher sein können – durch Ruhe, Geduld und gute Pflege.
+</div>
+
 ---
 
 ## Arbeit in einer NGO
 
-Das Tierheim wurde von einer **spendenbasierten NGO** betrieben.  
-Die Organisation setzte sich nicht nur für den Schutz von Tieren ein, sondern auch dafür, Menschen einen **achtsamen Umgang mit Tieren** zu vermitteln.
+<div style="display:flex;gap:24px;align-items:center;flex-wrap:wrap;margin:20px 0;">
 
-Ein Teil des Konzepts war es, zu zeigen, dass Tiere fühlende Lebewesen sind und respektvoll behandelt werden müssen.
+  <div style="flex:0 0 160px;">
+    <img src="{{ '/assets/img/anahita.jpg' | relative_url }}"
+         alt="Anahita Animal Rescue (Logo)"
+         style="width:160px;border-radius:12px;box-shadow:0 6px 18px rgba(0,0,0,.12);" />
+  </div>
+
+  <div style="flex:1;min-width:260px;">
+
+Das Tierheim wurde von einer **spendenbasierten NGO** betrieben.  
+Die Organisation wurde von **meiner Schwester gegründet und geleitet** und setzt sich für den Schutz und die Pflege von Tieren ein.
+
+Viele der aufgenommenen Tiere waren zuvor **misshandelt, verletzt oder ausgesetzt** worden.  
+Die Arbeit bestand deshalb nicht nur aus Versorgung und Pflege, sondern auch daraus, den Tieren wieder **Vertrauen, Sicherheit und Stabilität** zu geben.
+
+Ein wichtiger Teil des Konzepts war außerdem, Menschen einen **achtsamen und respektvollen Umgang mit Tieren** zu vermitteln.
+
+  </div>
+</div>
 
 ---
 
@@ -42,13 +63,13 @@ Solche Begegnungen können prägend sein und helfen, Respekt und Empathie zu ent
 In diesem Video spricht die Gründerin und Leiterin der Organisation über die Arbeit des Tierheims und die Motivation hinter dem Projekt.
 
 <div style="position:relative;padding-top:56.25%;margin:30px 0;">
-<iframe 
-src="https://www.youtube.com/embed/Dx0zRwZY-SM"
-style="position:absolute;top:0;left:0;width:100%;height:100%;border-radius:12px;"
-frameborder="0"
-allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-allowfullscreen>
-</iframe>
+  <iframe 
+    src="https://www.youtube.com/embed/Dx0zRwZY-SM"
+    style="position:absolute;top:0;left:0;width:100%;height:100%;border-radius:12px;"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen>
+  </iframe>
 </div>
 
 ---
