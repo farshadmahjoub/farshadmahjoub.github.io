@@ -18,14 +18,12 @@ permalink: /ueber-mich
 ## Mein Kurzprofil
 
 Mir ist am wichtigsten, dass Tiere **glücklich und gesund** sind – und dass ich ihnen **das geben kann, was sie benötigen**.  
-Ich arbeite ruhig, aufmerksam und zuverlässig und mag klare Routinen im Alltag. Ich kann mich auch gut auf neue herausforderungen einstellen.
+Ich arbeite ruhig, aufmerksam und zuverlässig und mag klare Routinen im Alltag. Ich kann mich auch gut auf neue Herausforderungen einstellen.
 Gerne arbeite ich ebenso mit Menschen und freue mich, meine Stärken in ein engagiertes Team einzubringen.
 
+---
 
 ## Meine Stärken (Profil aus Kompetenzkarten)
-
-
----
 
 <div style="margin:28px 0 12px 0;padding:14px 16px;border-radius:14px;background:rgba(0,0,0,.04);">
   <strong>Legende:</strong>
