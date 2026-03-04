@@ -4,7 +4,7 @@ title: Über mich
 permalink: /ueber-mich
 ---
 
-## Persönliche Daten
+## Meine persönlichen Daten
 
 | | |
 |---|---|
@@ -15,10 +15,15 @@ permalink: /ueber-mich
 
 ---
 
-## Kurzprofil
+## Mein Kurzprofil
 
 Mir ist am wichtigsten, dass Tiere **glücklich und gesund** sind – und dass ich ihnen **das geben kann, was sie benötigen**.  
-Ich arbeite ruhig, aufmerksam und zuverlässig und mag klare Routinen im Alltag.
+Ich arbeite ruhig, aufmerksam und zuverlässig und mag klare Routinen im Alltag. Ich kann mich auch gut auf neue herausforderungen einstellen.
+Gerne arbeite ich ebenso mit Menschen und freue mich, meine Stärken in ein engagiertes Team einzubringen.
+
+
+## Meine Stärken (Profil aus Kompetenzkarten)
+
 
 ---
 
@@ -29,13 +34,11 @@ Ich arbeite ruhig, aufmerksam und zuverlässig und mag klare Routinen im Alltag.
     <span style="margin:0 10px;">·</span>
     <span style="font-weight:700;">++</span> gut ausgeprägt
     <span style="margin:0 10px;">·</span>
-    <span style="font-weight:700;">+</span> vorhanden
+    <span style="font-weight:700;">+</span> ausgeprägt
   </span>
 </div>
 
 ---
-
-## Kompetenzprofil (aus Kompetenzkarten)
 
 <!-- 🟡 Personale Kompetenzen -->
 <div style="margin:26px 0 14px 0;padding:14px 16px;border-radius:16px;background:#fff8cc;box-shadow:0 4px 14px rgba(0,0,0,.06);">
@@ -199,8 +202,8 @@ Ich arbeite ruhig, aufmerksam und zuverlässig und mag klare Routinen im Alltag.
 
 ---
 
-## Beruflicher Fokus & Zukunft
+## Mein beruflicher Fokus & Wunsch für die Zukunft
 
 Aktuell möchte ich meine praktische Erfahrung in der Tierpflege in Deutschland weiter einbringen und ausbauen.
 
-Langfristig wünsche ich mir, zusätzlich einen **pädagogischen Beruf** zu erlernen, um später noch stärker mit Menschen arbeiten zu können – besonders in Bereichen, in denen Verantwortung, Fürsorge und Struktur im Alltag wichtig sind.
+Langfristig wünsche ich mir, zusätzlich einen **pädagogischen oder pflegerischen Beruf** zu erlernen, um später noch stärker mit Menschen arbeiten zu können – besonders in Bereichen, in denen Verantwortung, Fürsorge und Struktur im Alltag wichtig sind.
