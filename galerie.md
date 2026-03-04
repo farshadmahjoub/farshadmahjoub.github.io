@@ -23,6 +23,6 @@ permalink: /galerie
   </figure>
   <figure style="margin:0;">
     <img src="/assets/img/gallery_4.jpg" alt="Galerie 4" style="width:100%;border-radius:14px;box-shadow:0 6px 16px rgba(0,0,0,.10);" />
-    <figcaption style="font-size:.9em;opacity:.85;margin-top:6px;">[Scheeschippen]</figcaption>
+    <figcaption style="font-size:.9em;opacity:.85;margin-top:6px;">[Schneeschippen im Tierheim]</figcaption>
   </figure>
 </div>
