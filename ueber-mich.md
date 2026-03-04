@@ -36,7 +36,6 @@ Gerne arbeite ich ebenso mit Menschen und freue mich, meine Stärken in ein enga
   </span>
 </div>
 
----
 
 <!-- 🟡 Personale Kompetenzen -->
 <div style="margin:26px 0 14px 0;padding:14px 16px;border-radius:16px;background:#fff8cc;box-shadow:0 4px 14px rgba(0,0,0,.06);">
