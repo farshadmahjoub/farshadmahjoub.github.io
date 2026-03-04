@@ -29,11 +29,13 @@ Bildung
 </span>
 </div>
 
-### Studium:
-- **Ort / Einrichtung:** Universität Pisa/Italien
-- **Zeitraum:** 2015-2016
-- **Studiengang** Informatica Umanistica
-- **Abschluss:** ohne
+| | |
+|---|---|
+|### Studium:|
+| **Ort / Einrichtung:** |Universität Pisa/Italien|
+| **Zeitraum:**| 2015-2016|
+| **Studiengang**| Informatica Umanistica|
+| **Abschluss:** |ohne|
 <hr style="margin:40px 0;border:none;border-top:1px solid #ddd;">
 
 ### Studium:
