@@ -30,6 +30,7 @@ Bildung
 </div>
 
 ###Studium:
+
 | | |
 |---|---|
 | **Ort / Einrichtung:** |Universität Pisa/Italien|
