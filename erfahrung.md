@@ -13,7 +13,10 @@ permalink: /erfahrung
 - **Zeitraum:** 2014-2015 und 2016-2024 (insg. 9 Jahre)
 - **Tiere:** Hund, Katze, Igel, Eule, Wolf, Fuchs, Esel, Pferd, Dachs
 - **Aufgaben:** Zubereitung von Tiernahrung, Fütterung, Reinigung, Stallroutine, Beobachtung, Transport, Medikation
-
+<div style="text-align:center;margin:50px 0;">
+<hr style="border:none;border-top:1px solid #ddd;">
+<span style="position:relative;top:-12px;background:white;padding:0 12px;color:#666;">Festivalteilnahmen</span>
+</div>
 ### Bildung:
 - **Ort / Einrichtung:** Universitöt Pisa/Italien
 - **Zeitraum:** 2015-2016
