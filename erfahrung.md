@@ -13,7 +13,7 @@ Berufserfahrung
 
 > Hinweis: Kein formaler Berufsabschluss – die folgenden Punkte basieren auf praktischer Tätigkeit und dokumentiertem Material (Fotos/Videos).
 
-- **Tierpfleger:**
+- ###Tierpfleger:
 - **Ort / Einrichtung:**   Ânâhitâ Tierheim, Rasht/Irân
 - **Zeitraum:**            2014-2015 und 2016-2024 (insg. 9 Jahre)
 - **Tiere:**               Hund, Katze, Igel, Eule, Wolf, Fuchs, Esel, Pferd, Dachs
