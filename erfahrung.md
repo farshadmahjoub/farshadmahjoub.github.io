@@ -14,10 +14,10 @@ Berufserfahrung
 > Hinweis: Kein formaler Berufsabschluss – die folgenden Punkte basieren auf praktischer Tätigkeit und dokumentiertem Material (Fotos/Videos).
 
 - **Tierpfleger:**
-- **Ort / Einrichtung:** Ânâhitâ Tierheim, Rasht/Irân
-- **Zeitraum:** 2014-2015 und 2016-2024 (insg. 9 Jahre)
-- **Tiere:** Hund, Katze, Igel, Eule, Wolf, Fuchs, Esel, Pferd, Dachs
-- **Aufgaben:** Zubereitung von Tiernahrung, Fütterung, Reinigung, Stallroutine, Beobachtung, Transport, Medikation
+- **Ort / Einrichtung:**   Ânâhitâ Tierheim, Rasht/Irân
+- **Zeitraum:**            2014-2015 und 2016-2024 (insg. 9 Jahre)
+- **Tiere:**               Hund, Katze, Igel, Eule, Wolf, Fuchs, Esel, Pferd, Dachs
+- **Aufgaben:**            Zubereitung von Tiernahrung, Fütterung, Reinigung, Stallroutine, Beobachtung, Transport, Medikation
   
 <div style="text-align:center;margin:60px 0;">
 <hr style="border:none;border-top:1px solid #ddd;">
