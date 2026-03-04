@@ -14,6 +14,7 @@ Berufserfahrung
 > Hinweis: Kein formaler Berufsabschluss – die folgenden Punkte basieren auf praktischer Tätigkeit und dokumentiertem Material (Fotos/Videos).
 
 ### Tierpfleger:
+
 | | |
 |---|---|
 |**Ort / Einrichtung:**|   Ânâhitâ Tierheim, Rasht/Irân|
