@@ -8,6 +8,11 @@ permalink: /ueber-mich
 
 Ich arbeite gern **praktisch**, **verantwortungsvoll** und **mit ruhigem Umgang** mit Tieren.  
 Besonders wichtig sind mir **Sicherheit**, **Hygiene** und ein respektvoller, stressarmer Umgang im Alltag.
+## Weitere Kompetenzen
+- Sorgfalt & Zuverlässigkeit in Routinen
+- Verantwortungsbewusstsein (Sicherheit, Hygiene, Ruhe)
+- Teamfähigkeit und Anpassungsfähigkeit
+
 
 ### Was ich suche
 - ein Team, in dem Verlässlichkeit zählt
