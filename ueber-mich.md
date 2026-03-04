@@ -4,9 +4,8 @@ title: Über mich
 permalink: /ueber-mich
 ---
 ## Persönliche Daten
-
 | | |
-|---|---|
+|-----|---|
 | Name | Farshad Mahjoub |
 | Geburtsjahr | 1994 |
 | Wohnort | Kiel, Deutschland |
