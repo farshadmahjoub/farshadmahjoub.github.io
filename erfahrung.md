@@ -25,23 +25,26 @@ Bildung
 </span>
 </div>
 
-- **Ort / Einrichtung:** Universitöt Pisa/Italien
+- **Studium:**
+- **Ort / Einrichtung:** Universität Pisa/Italien
 - **Zeitraum:** 2015-2016
 - **Studiengang** Informatica Umanistica
 - **Abschluss:** ohne
+<hr style="margin:40px 0;border:none;border-top:1px solid #ddd;">
 
 - **Ort / Einrichtung:** Universität Roudsar/Irân
 - **Zeitraum:** 2014-2015
 - **Studiengang** Dolmetscher Englisch
 - **Abschluss:** ohne
+<hr style="margin:40px 0;border:none;border-top:1px solid #ddd;">
 
 - **Ort / Einrichtung:** Sekundarschule Shâhed, Rasht/Irân
 - **Zeitraum:** 2006-2013
 - **Abschluss:** Abitur
+<hr style="margin:40px 0;border:none;border-top:1px solid #ddd;">
 
 - **Ort / Einrichtung:** Primarschule Shahrouze Asil, Siâhkal/Irân
 - **Zeitraum:** 2001-2006
-- **Studiengang** Dolmetscher Englisch
 
 <div style="text-align:center;margin:60px 0;">
 <hr style="border:none;border-top:1px solid #ddd;">
