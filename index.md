@@ -6,7 +6,6 @@ permalink: /
 
 # Hallo, ich bin Farshâd.
 
-  </div>
 
   <div style="flex:1;min-width:280px;">
     <img src="{{ '/assets/img/hero.jpg' | relative_url }}"
