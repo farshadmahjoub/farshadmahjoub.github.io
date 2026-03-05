@@ -29,20 +29,17 @@ permalink: /presse
 Der Dokumentarfilm <em>The Shelter</em> (2016) begleitet die Arbeit im Tierheim und zeigt authentische Einblicke in den Alltag vor Ort.  
 Ich bin in mehreren Szenen bei der praktischen Tierpflege und im Arbeitsalltag zu sehen.
 
-<div style="margin-top:20px;background:#fff;border-radius:16px;overflow:hidden;box-shadow:0 6px 18px rgba(0,0,0,.12);">
-  <div style="position:relative;padding-top:56.25%;">
-    <iframe
-      src="https://player.vimeo.com/video/1170703642?title=0&byline=0&portrait=0"
-      style="position:absolute;top:0;left:0;width:100%;height:100%;"
-      frameborder="0"
-      allow="autoplay; fullscreen; picture-in-picture"
-      allowfullscreen>
-    </iframe>
-  </div>
-  <div style="padding:16px;">
-    <div style="font-weight:700;font-size:1.05rem;margin-bottom:6px;">The Shelter (2016)</div>
-    <div style="opacity:.85;font-size:.95rem;">Dokumentarfilm über das Tierheim – Einblick in meine praktische Mitarbeit.</div>
-  </div>
+<div style="padding:56.25% 0 0 0;position:relative;margin:30px 0;">
+  <iframe
+    src="https://player.vimeo.com/video/1170703642?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
+    frameborder="0"
+    allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    style="position:absolute;top:0;left:0;width:100%;height:100%;border-radius:12px;"
+    title="Pandahgah_The_Shelter_Web">
+  </iframe>
+</div>
+<script src="https://player.vimeo.com/api/player.js"></script>
 </div>
 
 <hr style="margin:50px 0;border:none;border-top:1px solid #ddd;">
