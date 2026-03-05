@@ -3,56 +3,53 @@ layout: page
 title: Presse & Dokumentation
 permalink: /presse
 ---
+
 # Artikel: Azadeh und die Tiere (2021)
-<div style="display:flex;gap:18px;align-items:flex-start;">
 
-  <a href="https://magazin.zenith.me/de/gesellschaft/zu-besuch-einem-iranischen-tierheim"
-     target="_blank" rel="noopener" style="text-decoration:none;color:inherit;">
+<a href="https://magazin.zenith.me/de/gesellschaft/zu-besuch-einem-iranischen-tierheim"
+   target="_blank" rel="noopener"
+   style="text-decoration:none;color:inherit;display:block;">
 
-<img src="{{ '/assets/img/artikel_zenith.jpg' | relative_url }}"
-     alt="Zenith Artikel"
-     style="width:100%;height:auto;border-radius:16px;box-shadow:0 6px 18px rgba(0,0,0,.12);" />
+  <img src="{{ '/assets/img/artikel_zenith.jpg' | relative_url }}"
+       alt="Zenith Artikel"
+       style="width:100%;height:auto;border-radius:16px;box-shadow:0 6px 18px rgba(0,0,0,.12);" />
 
-    <div style="flex:1;font-size:1rem;line-height:1.4;">
-      <strong>Zu Besuch in einem iranischen Tierheim</strong><br />
-      Artikel bei *zenith – Magazin für den Orient*<br />
-      <em>Ein journalistischer Beitrag, der Einblicke in das Tierheim gibt, in dem ich gearbeitet habe.  </em>
-    </div>
-
-  </a>
-
-</div>
-
----
-# Dokumentarfilm Panâhgâh - The Shelter (2016)
-
-Der Dokumentarfilm *The Shelter* (2016) begleitet die Arbeit im Tierheim und zeigt authentische Einblicke in den Alltag vor Ort.  
-Ich bin in mehreren Szenen bei der praktischen Tierpflege und im Arbeitsalltag zu sehen.
-
-<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(320px,1fr));gap:22px;align-items:stretch;margin-top:20px;">
-
-  <!-- Vimeo 1 -->
-  <div style="background:#fff;border-radius:16px;overflow:hidden;box-shadow:0 6px 18px rgba(0,0,0,.12);">
-    <div style="position:relative;padding-top:56.25%;">
-      <iframe
-        src="https://vimeo.com/1170703642"
-        style="position:absolute;top:0;left:0;width:100%;height:100%;"
-        frameborder="0"
-        allow="autoplay; fullscreen; picture-in-picture"
-        allowfullscreen>
-      </iframe>
-    </div>
-    <div style="padding:16px;">
-      <div style="font-weight:700;font-size:1.05rem;margin-bottom:6px;">The Shelter (2016)</div>
-      <div style="opacity:.85;font-size:.95rem;">Dokumentarfilm über das Tierheim – Einblick in meine praktische Mitarbeit.</div>
-    </div>
+  <div style="margin-top:12px;font-size:1rem;line-height:1.4;">
+    <strong>Zu Besuch in einem iranischen Tierheim</strong><br />
+    Artikel bei <em>zenith – Magazin für den Orient</em><br />
+    <span style="opacity:.9;">Ein journalistischer Beitrag, der Einblicke in das Tierheim gibt, in dem ich gearbeitet habe.</span>
   </div>
 
+</a>
+
+<hr style="margin:50px 0;border:none;border-top:1px solid #ddd;">
+
+# Dokumentarfilm Panâhgâh – The Shelter (2016)
+
+Der Dokumentarfilm <em>The Shelter</em> (2016) begleitet die Arbeit im Tierheim und zeigt authentische Einblicke in den Alltag vor Ort.  
+Ich bin in mehreren Szenen bei der praktischen Tierpflege und im Arbeitsalltag zu sehen.
+
+<div style="margin-top:20px;background:#fff;border-radius:16px;overflow:hidden;box-shadow:0 6px 18px rgba(0,0,0,.12);">
+  <div style="position:relative;padding-top:56.25%;">
+    <iframe
+      src="https://player.vimeo.com/video/1170703642?title=0&byline=0&portrait=0"
+      style="position:absolute;top:0;left:0;width:100%;height:100%;"
+      frameborder="0"
+      allow="autoplay; fullscreen; picture-in-picture"
+      allowfullscreen>
+    </iframe>
+  </div>
+  <div style="padding:16px;">
+    <div style="font-weight:700;font-size:1.05rem;margin-bottom:6px;">The Shelter (2016)</div>
+    <div style="opacity:.85;font-size:.95rem;">Dokumentarfilm über das Tierheim – Einblick in meine praktische Mitarbeit.</div>
+  </div>
 </div>
 
-### Festival-Teilnahmen (Official Selection)
+<hr style="margin:50px 0;border:none;border-top:1px solid #ddd;">
 
-Der Film *The Shelter* (2016) – Regie: Abbas Sendi – wurde international auf mehreren Filmfestivals gezeigt.
+## Festival-Teilnahmen (Official Selection)
+
+Der Film <em>The Shelter</em> (2016) – Regie: Abbas Sendi – wurde international auf mehreren Filmfestivals gezeigt.
 
 <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:18px;align-items:stretch;margin-top:20px;">
 
@@ -105,7 +102,6 @@ Der Film *The Shelter* (2016) – Regie: Abbas Sendi – wurde international auf
       Official Selection – <strong>2017</strong>
     </figcaption>
   </figure>
-
 
 </div>
 
