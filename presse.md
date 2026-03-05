@@ -29,17 +29,14 @@ permalink: /presse
 Der Dokumentarfilm <em>The Shelter</em> (2016) begleitet die Arbeit im Tierheim und zeigt authentische Einblicke in den Alltag vor Ort.  
 Ich bin in mehreren Szenen bei der praktischen Tierpflege und im Arbeitsalltag zu sehen.
 
-<div style="padding:56.25% 0 0 0;position:relative;margin:30px 0;">
+<div style="position:relative;padding-top:56.25%;margin:30px 0;">
   <iframe
-    src="https://player.vimeo.com/video/1170703642?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
-    frameborder="0"
-    allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share"
-    referrerpolicy="strict-origin-when-cross-origin"
+    src="https://player.vimeo.com/video/1170703642?badge=0&amp;autopause=0&amp;title=0&amp;byline=0&amp;portrait=0"
     style="position:absolute;top:0;left:0;width:100%;height:100%;border-radius:12px;"
-    title="Pandahgah_The_Shelter_Web">
+    frameborder="0"
+    allow="autoplay; fullscreen; picture-in-picture"
+    allowfullscreen>
   </iframe>
-</div>
-<script src="https://player.vimeo.com/api/player.js"></script>
 </div>
 
 <hr style="margin:50px 0;border:none;border-top:1px solid #ddd;">
