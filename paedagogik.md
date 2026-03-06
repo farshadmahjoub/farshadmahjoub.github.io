@@ -31,6 +31,7 @@ Deshalb war ein wichtiger Teil der Arbeit, ihnen wieder **Vertrauen, Ruhe und Si
 
   <div style="flex:1;min-width:260px;">
 
+
 Das Tierheim wurde von einer **spendenbasierten NGO** betrieben.  
 Die Organisation wurde von **meiner Schwester gegründet und geleitet** und setzt sich für den Schutz und die Pflege von Tieren ein.
 
